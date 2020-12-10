@@ -1,0 +1,9 @@
+polymorphism = many forms
+
+a  +  b
+1  +  2 = 3
+A  +  B = AB
+
+Machine c = new Laptop();
+
+Fruit f = new Orange();
